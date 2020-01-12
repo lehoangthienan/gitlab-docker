@@ -35,3 +35,9 @@ gitlab-ctl stop
 gitlab-rake gitlab:backup:restore BACKUP=123....123 (/var/opt/gitlab/backups/123....123_gitlab....tar)
 
 gitlab-ctl start
+
+# Error
+Backup and restore same version gitlab
+
+Error CICD => reset token runner on db 
+
